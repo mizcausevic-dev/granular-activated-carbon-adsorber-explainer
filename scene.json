@@ -11,40 +11,40 @@
       "glyph": "plate",
       "label": "Bed",
       "role": "structure",
-      "x": 0.12,
-      "y": 0.5
+      "x": 0.14,
+      "y": 0.32
     },
     {
       "id": "n2",
       "glyph": "sample",
       "label": "Internal surfaces",
       "role": "path",
-      "x": 0.31,
-      "y": 0.5
+      "x": 0.5,
+      "y": 0.32
     },
     {
       "id": "n3",
       "glyph": "adsorbent",
       "label": "Adsorb selected organics",
       "role": "path",
-      "x": 0.5,
-      "y": 0.5
+      "x": 0.86,
+      "y": 0.32
     },
     {
       "id": "n4",
       "glyph": "zone",
       "label": "Loading zone",
       "role": "path",
-      "x": 0.69,
-      "y": 0.5
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n5",
       "glyph": "mill",
       "label": "Replace or appropriately reactivate media",
       "role": "path",
-      "x": 0.88,
-      "y": 0.5
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
